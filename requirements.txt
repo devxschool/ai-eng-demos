@@ -1,0 +1,24 @@
+# LangChain and AI dependencies
+langchain==0.1.0
+langchain-core==0.1.0
+langchain-openai==0.0.5
+openai>=1.0.0
+
+# Web automation dependencies
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# Data processing and validation
+pydantic>=2.0.0
+typing-extensions>=4.8.0
+
+# Utility dependencies
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Image processing (for screenshots)
+Pillow>=10.0.0
+
+# Development and testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0 
