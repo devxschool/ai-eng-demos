@@ -2,6 +2,7 @@
 langchain==0.1.0
 langchain-core==0.1.0
 langchain-openai==0.0.5
+langchain-community>=0.0.10
 openai>=1.0.0
 
 # Web automation dependencies
@@ -18,6 +19,9 @@ requests>=2.31.0
 
 # Image processing (for screenshots)
 Pillow>=10.0.0
+
+# Vector store dependencies (for RAG examples)
+faiss-cpu>=1.7.0
 
 # Development and testing
 pytest>=7.4.0

@@ -218,6 +218,7 @@ def extract_job_application_fields_with_locators(url: str) -> dict:
         # Extract page title and HTML content
         page_title = driver.title
         html_content = driver.page_source
+        logger.info(html_content)
         logger.info(f"Extracted HTML content, length: {len(html_content)} characters")
         
         # Also extract visible text for better analysis
@@ -236,7 +237,6 @@ def extract_job_application_fields_with_locators(url: str) -> dict:
         
         HTML Content (sample): {html_sample}
         
-        Visible Text (sample): {body_sample}
         
         Please identify and extract information and return it as a JSON object with this exact structure:
         
