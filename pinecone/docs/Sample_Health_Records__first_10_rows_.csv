@@ -1,0 +1,11 @@
+PatientID,Name,Age,Gender,VisitDate,Diagnosis,Treatment,Doctor,Prescription,FollowUpDate,CostUSD
+P0001,Patient_1,19,Female,2025-05-21,Sprained Ankle,Physical Therapy,Dr. Baker,Metformin,2025-05-28,1369.56
+P0002,Patient_2,23,Female,2025-05-29,Hypertension,Medication,Dr. Adams,Antihistamine,2025-06-28,503.69
+P0003,Patient_3,53,Male,2025-05-20,Asthma,Lab Tests,Dr. Baker,Rest and Ice,2025-05-27,1199.07
+P0004,Patient_4,66,Male,2025-05-26,High Cholesterol,Routine Checkup,Dr. Clark,Ibuprofen,2025-06-02,469.86
+P0005,Patient_5,24,Male,2025-05-25,High Cholesterol,Medication,Dr. Clark,Atorvastatin,2025-06-08,1227.27
+P0006,Patient_6,64,Female,2025-05-26,Asthma,Medication,Dr. Davis,Metformin,2025-06-02,1126.48
+P0007,Patient_7,57,Female,2025-05-27,Back Pain,Physical Therapy,Dr. Adams,Lisinopril,2025-06-26,1339.46
+P0008,Patient_8,23,Male,2025-05-25,Type 2 Diabetes,Lab Tests,Dr. Clark,Rest and Ice,2025-06-08,1289.58
+P0009,Patient_9,41,Female,2025-05-12,Sprained Ankle,Vaccination,Dr. Clark,Metformin,2025-05-19,1237.81
+P0010,Patient_10,64,Male,2025-05-06,Acute Bronchitis,Lab Tests,Dr. Davis,Albuterol,2025-06-05,1979.57
